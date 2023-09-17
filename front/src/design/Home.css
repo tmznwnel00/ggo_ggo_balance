@@ -1,0 +1,21 @@
+/* .link-button {
+    background: none;
+    border: none;
+    color: blue;
+    
+    text-decoration: underline;
+    cursor: pointer;
+} */
+
+.link-button:focus {
+    outline: none;
+    
+}
+
+.link-button {
+    background: none;
+    border: none;
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
